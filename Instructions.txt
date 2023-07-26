@@ -1,0 +1,17 @@
+1. MAKE SURE yersinia and nmap tools are installed if not
+	sudo apt-get update
+	sudo apt-get upgrade
+	sudo apt-get install yersinia
+	sudo apt-get install nmap
+
+
+2. MAKE sure the following files are included:
+	rmap.sh
+	lines.txt
+	nmap.txt
+
+3. if not already set - do chmod 777 for those files
+
+4. use sudo for running the bot, root privleges are required by yersinia
+
+
