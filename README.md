@@ -36,9 +36,9 @@ We manged to handle the upcoming situations:
 5. **End of Attack Reporting**: Another crucial aspect was testing a bot's ability to report the end of an attack as expected. In cases where a bot failed to do so, the protocol took immediate action, transitioning to the "ABORT" state to prevent any unintended continuation of the attack.
 
 # Message Types
-![image](https://github.com/EshedHere/BotNet/assets/140636322/1d877ec9-9692-4283-8dc3-bdeb504f9e39)
+![image](https://github.com/EshedHere/BotNet/assets/140636322/c1dd9fbf-1c1c-42a1-a708-fa72ba64dc26)
 
 # FSM
-![image](https://github.com/EshedHere/BotNet/assets/140636322/5b2a2e07-dcc6-494d-8fa2-5ce158bdef74)
+![image](https://github.com/EshedHere/BotNet/assets/140636322/4a13daf0-e94f-482a-b791-4ce463a2fa08)
 
 
